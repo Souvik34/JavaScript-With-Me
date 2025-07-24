@@ -29,3 +29,4 @@ console.log(typeof null);
 console.log(typeof false);
 console.log(typeof "Sam");
 console.log(typeof [1, 2, 3]);
+console.log(Array.isArray([1, 2, 3]))
