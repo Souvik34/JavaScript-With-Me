@@ -28,3 +28,4 @@ console.log(typeof undefined);
 console.log(typeof null);
 console.log(typeof false);
 console.log(typeof "Sam");
+console.log(typeof [1, 2, 3]);
